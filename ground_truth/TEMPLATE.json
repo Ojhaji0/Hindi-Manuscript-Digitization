@@ -1,0 +1,35 @@
+{
+  "file_name": "image00015.jpg",
+
+  "ocr_text": "यहाँ वह text लिखें जो image में दिखता है — बिल्कुल वैसे ही जैसे आप पढ़ते हैं। OCR accuracy measure करने के लिए use होता है।",
+
+  "records": [
+    {
+      "Given Name": "राम कुमार",
+      "Relation": "स्वयं",
+      "Gender": "पुरुष",
+      "Caste": "राजपूत",
+      "Subcaste": "राठौर",
+      "From Which Place": "आगरा",
+      "Date of Ritual (Gregorian)": "1945-03-15"
+    },
+    {
+      "Given Name": "श्याम लाल",
+      "Relation": "पिता (राम कुमार का)",
+      "Gender": "पुरुष",
+      "Caste": "राजपूत",
+      "Subcaste": "राठौर",
+      "From Which Place": "आगरा",
+      "Date of Ritual (Gregorian)": "1945-03-15"
+    },
+    {
+      "Given Name": "सुमित्रा देवी",
+      "Relation": "पत्नी (राम कुमार की)",
+      "Gender": "स्त्री",
+      "Caste": "राजपूत",
+      "Subcaste": "",
+      "From Which Place": "आगरा",
+      "Date of Ritual (Gregorian)": "1945-03-15"
+    }
+  ]
+}
